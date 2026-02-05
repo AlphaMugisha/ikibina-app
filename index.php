@@ -38,7 +38,7 @@
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&w=500&q=60" alt="Mobile Payment">
+            <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000dc9871f590acf1cf6148b77e&ts=491431&p=fs&cid=1&sig=49ebcee57f53f077dc145708dac78d720ba514a37f3fb488882226f8b115c84b&v=0" alt="Mobile Payment">
             <h3>Instant Transparency</h3>
             <p>See exactly who has contributed their <strong>Musanzu</strong> and who is pending. Every member sees the same dashboard.</p>
         </div>
