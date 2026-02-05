@@ -15,7 +15,6 @@
     <nav>
         <div class="logo">Ikibina<span style="color:var(--success-color)">.rw</span></div>
         <div class="nav-links">
-            <a href="login.php">Log In</a>
             <a href="register.php" class="btn-primary">Get Started</a>
             <button id="theme-toggle">🌗 Mode</button>
         </div>
